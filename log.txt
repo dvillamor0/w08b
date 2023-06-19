@@ -1,0 +1,331 @@
+
+
+0
+Epoch 1/5
+511/511 [==============================] - 6s 6ms/step - loss: 1.4812 - categorical_crossentropy: 1.4812
+Epoch 2/5
+511/511 [==============================] - 3s 6ms/step - loss: 0.9513 - categorical_crossentropy: 0.9513
+Epoch 3/5
+511/511 [==============================] - 4s 7ms/step - loss: 0.8200 - categorical_crossentropy: 0.8200
+Epoch 4/5
+511/511 [==============================] - 3s 6ms/step - loss: 0.7486 - categorical_crossentropy: 0.7486
+Epoch 5/5
+511/511 [==============================] - 3s 6ms/step - loss: 0.6740 - categorical_crossentropy: 0.6740
+
+WARNING:absl:Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 4 of 4). These functions will not be directly callable after loading.
+
+1
+Epoch 1/5
+511/511 [==============================] - 3s 6ms/step - loss: 0.6318 - categorical_crossentropy: 0.6318
+Epoch 2/5
+511/511 [==============================] - 4s 7ms/step - loss: 0.6031 - categorical_crossentropy: 0.6031
+Epoch 3/5
+511/511 [==============================] - 3s 6ms/step - loss: 0.5552 - categorical_crossentropy: 0.5552
+Epoch 4/5
+511/511 [==============================] - 3s 6ms/step - loss: 0.5262 - categorical_crossentropy: 0.5262
+Epoch 5/5
+511/511 [==============================] - 3s 6ms/step - loss: 0.5022 - categorical_crossentropy: 0.5022
+
+WARNING:absl:Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 4 of 4). These functions will not be directly callable after loading.
+
+2
+Epoch 1/5
+511/511 [==============================] - 3s 6ms/step - loss: 0.4691 - categorical_crossentropy: 0.4691
+Epoch 2/5
+511/511 [==============================] - 3s 6ms/step - loss: 0.4952 - categorical_crossentropy: 0.4952
+Epoch 3/5
+511/511 [==============================] - 3s 6ms/step - loss: 0.4381 - categorical_crossentropy: 0.4381
+Epoch 4/5
+511/511 [==============================] - 4s 8ms/step - loss: 0.4503 - categorical_crossentropy: 0.4503
+Epoch 5/5
+511/511 [==============================] - 3s 6ms/step - loss: 0.4945 - categorical_crossentropy: 0.4945
+
+WARNING:absl:Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 4 of 4). These functions will not be directly callable after loading.
+
+3
+Epoch 1/5
+511/511 [==============================] - 4s 8ms/step - loss: 0.4345 - categorical_crossentropy: 0.4345
+Epoch 2/5
+511/511 [==============================] - 3s 6ms/step - loss: 0.4229 - categorical_crossentropy: 0.4229
+Epoch 3/5
+511/511 [==============================] - 3s 6ms/step - loss: 0.3393 - categorical_crossentropy: 0.3393
+Epoch 4/5
+511/511 [==============================] - 3s 6ms/step - loss: 0.2869 - categorical_crossentropy: 0.2869
+Epoch 5/5
+511/511 [==============================] - 4s 7ms/step - loss: 0.2789 - categorical_crossentropy: 0.2789
+
+WARNING:absl:Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 4 of 4). These functions will not be directly callable after loading.
+
+4
+Epoch 1/5
+511/511 [==============================] - 3s 6ms/step - loss: 0.7425 - categorical_crossentropy: 0.7425
+Epoch 2/5
+511/511 [==============================] - 3s 6ms/step - loss: 0.5754 - categorical_crossentropy: 0.5754
+Epoch 3/5
+511/511 [==============================] - 3s 7ms/step - loss: 0.5349 - categorical_crossentropy: 0.5349
+Epoch 4/5
+511/511 [==============================] - 3s 6ms/step - loss: 0.3892 - categorical_crossentropy: 0.3892
+Epoch 5/5
+511/511 [==============================] - 3s 6ms/step - loss: 0.3835 - categorical_crossentropy: 0.3835
+5
+Epoch 1/5
+511/511 [==============================] - 3s 6ms/step - loss: 0.3476 - categorical_crossentropy: 0.3476
+Epoch 2/5
+511/511 [==============================] - 3s 6ms/step - loss: 0.2889 - categorical_crossentropy: 0.2889
+Epoch 3/5
+511/511 [==============================] - 3s 6ms/step - loss: 0.2066 - categorical_crossentropy: 0.2066
+Epoch 4/5
+511/511 [==============================] - 4s 7ms/step - loss: 0.1665 - categorical_crossentropy: 0.1665
+Epoch 5/5
+511/511 [==============================] - 3s 6ms/step - loss: 0.1686 - categorical_crossentropy: 0.1686
+
+WARNING:absl:Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 4 of 4). These functions will not be directly callable after loading.
+
+6
+Epoch 1/5
+511/511 [==============================] - 4s 7ms/step - loss: 0.1648 - categorical_crossentropy: 0.1648
+Epoch 2/5
+511/511 [==============================] - 3s 6ms/step - loss: 0.1580 - categorical_crossentropy: 0.1580
+Epoch 3/5
+511/511 [==============================] - 3s 6ms/step - loss: 0.1342 - categorical_crossentropy: 0.1342
+Epoch 4/5
+511/511 [==============================] - 3s 6ms/step - loss: 0.1436 - categorical_crossentropy: 0.1436
+Epoch 5/5
+511/511 [==============================] - 3s 7ms/step - loss: 0.1996 - categorical_crossentropy: 0.1996
+7
+Epoch 1/5
+511/511 [==============================] - 3s 6ms/step - loss: 0.1600 - categorical_crossentropy: 0.1600
+Epoch 2/5
+511/511 [==============================] - 3s 6ms/step - loss: 0.1045 - categorical_crossentropy: 0.1045
+Epoch 3/5
+511/511 [==============================] - 3s 6ms/step - loss: 0.0841 - categorical_crossentropy: 0.0841
+Epoch 4/5
+511/511 [==============================] - 3s 6ms/step - loss: 0.0852 - categorical_crossentropy: 0.0852
+Epoch 5/5
+511/511 [==============================] - 4s 7ms/step - loss: 0.0983 - categorical_crossentropy: 0.0983
+
+WARNING:absl:Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 4 of 4). These functions will not be directly callable after loading.
+
+8
+Epoch 1/5
+511/511 [==============================] - 4s 7ms/step - loss: 0.0989 - categorical_crossentropy: 0.0989
+Epoch 2/5
+511/511 [==============================] - 3s 7ms/step - loss: 0.2748 - categorical_crossentropy: 0.2748
+Epoch 3/5
+511/511 [==============================] - 3s 6ms/step - loss: 0.0843 - categorical_crossentropy: 0.0843
+Epoch 4/5
+511/511 [==============================] - 3s 6ms/step - loss: 0.0555 - categorical_crossentropy: 0.0555
+Epoch 5/5
+511/511 [==============================] - 3s 6ms/step - loss: 0.1978 - categorical_crossentropy: 0.1978
+9
+Epoch 1/5
+511/511 [==============================] - 3s 6ms/step - loss: 0.0908 - categorical_crossentropy: 0.0908
+Epoch 2/5
+511/511 [==============================] - 3s 6ms/step - loss: 0.0715 - categorical_crossentropy: 0.0715
+Epoch 3/5
+511/511 [==============================] - 4s 7ms/step - loss: 0.0586 - categorical_crossentropy: 0.0586
+Epoch 4/5
+511/511 [==============================] - 3s 6ms/step - loss: 0.1259 - categorical_crossentropy: 0.1259
+Epoch 5/5
+511/511 [==============================] - 3s 6ms/step - loss: 0.0815 - categorical_crossentropy: 0.0815
+
+WARNING:absl:Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 4 of 4). These functions will not be directly callable after loading.
+
+10
+Epoch 1/5
+511/511 [==============================] - 3s 7ms/step - loss: 0.0867 - categorical_crossentropy: 0.0867
+Epoch 2/5
+511/511 [==============================] - 3s 6ms/step - loss: 0.1870 - categorical_crossentropy: 0.1870
+Epoch 3/5
+511/511 [==============================] - 3s 6ms/step - loss: 0.0631 - categorical_crossentropy: 0.0631
+Epoch 4/5
+511/511 [==============================] - 4s 7ms/step - loss: 0.0402 - categorical_crossentropy: 0.0402
+Epoch 5/5
+511/511 [==============================] - 3s 6ms/step - loss: 0.0242 - categorical_crossentropy: 0.0242
+
+WARNING:absl:Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 4 of 4). These functions will not be directly callable after loading.
+
+11
+Epoch 1/5
+511/511 [==============================] - 3s 6ms/step - loss: 0.0752 - categorical_crossentropy: 0.0752
+Epoch 2/5
+511/511 [==============================] - 3s 6ms/step - loss: 0.0626 - categorical_crossentropy: 0.0626
+Epoch 3/5
+511/511 [==============================] - 4s 8ms/step - loss: 0.0728 - categorical_crossentropy: 0.0728
+Epoch 4/5
+511/511 [==============================] - 3s 6ms/step - loss: 0.0685 - categorical_crossentropy: 0.0685
+Epoch 5/5
+511/511 [==============================] - 3s 6ms/step - loss: 0.0589 - categorical_crossentropy: 0.0589
+12
+Epoch 1/5
+511/511 [==============================] - 3s 7ms/step - loss: 0.0984 - categorical_crossentropy: 0.0984
+Epoch 2/5
+511/511 [==============================] - 3s 6ms/step - loss: 0.0563 - categorical_crossentropy: 0.0563
+Epoch 3/5
+511/511 [==============================] - 3s 6ms/step - loss: 0.0385 - categorical_crossentropy: 0.0385
+Epoch 4/5
+511/511 [==============================] - 3s 6ms/step - loss: 0.1154 - categorical_crossentropy: 0.1154
+Epoch 5/5
+511/511 [==============================] - 4s 7ms/step - loss: 0.0520 - categorical_crossentropy: 0.0520
+13
+Epoch 1/5
+511/511 [==============================] - 3s 6ms/step - loss: 0.0368 - categorical_crossentropy: 0.0368
+Epoch 2/5
+511/511 [==============================] - 3s 7ms/step - loss: 0.0470 - categorical_crossentropy: 0.0470
+Epoch 3/5
+511/511 [==============================] - 3s 7ms/step - loss: 0.0518 - categorical_crossentropy: 0.0518
+Epoch 4/5
+511/511 [==============================] - 3s 6ms/step - loss: 0.0665 - categorical_crossentropy: 0.0665
+Epoch 5/5
+511/511 [==============================] - 3s 6ms/step - loss: 0.0485 - categorical_crossentropy: 0.0485
+14
+Epoch 1/5
+511/511 [==============================] - 3s 6ms/step - loss: 0.0563 - categorical_crossentropy: 0.0563
+Epoch 2/5
+511/511 [==============================] - 3s 6ms/step - loss: 0.0532 - categorical_crossentropy: 0.0532
+Epoch 3/5
+511/511 [==============================] - 3s 6ms/step - loss: 0.1001 - categorical_crossentropy: 0.1001
+Epoch 4/5
+511/511 [==============================] - 4s 7ms/step - loss: 0.0437 - categorical_crossentropy: 0.0437
+Epoch 5/5
+511/511 [==============================] - 3s 6ms/step - loss: 0.0455 - categorical_crossentropy: 0.0455
+15
+Epoch 1/5
+511/511 [==============================] - 3s 6ms/step - loss: 0.0478 - categorical_crossentropy: 0.0478
+Epoch 2/5
+511/511 [==============================] - 4s 7ms/step - loss: 0.0842 - categorical_crossentropy: 0.0842
+Epoch 3/5
+511/511 [==============================] - 3s 6ms/step - loss: 0.1996 - categorical_crossentropy: 0.1996
+Epoch 4/5
+511/511 [==============================] - 3s 6ms/step - loss: 0.2862 - categorical_crossentropy: 0.2862
+Epoch 5/5
+511/511 [==============================] - 3s 6ms/step - loss: 0.0934 - categorical_crossentropy: 0.0934
+16
+Epoch 1/5
+511/511 [==============================] - 4s 7ms/step - loss: 0.0339 - categorical_crossentropy: 0.0339
+Epoch 2/5
+511/511 [==============================] - 3s 6ms/step - loss: 0.0550 - categorical_crossentropy: 0.0550
+Epoch 3/5
+511/511 [==============================] - 3s 6ms/step - loss: 0.1048 - categorical_crossentropy: 0.1048
+Epoch 4/5
+511/511 [==============================] - 3s 6ms/step - loss: 0.6653 - categorical_crossentropy: 0.6653
+Epoch 5/5
+511/511 [==============================] - 4s 7ms/step - loss: 0.4593 - categorical_crossentropy: 0.4593
+17
+Epoch 1/5
+511/511 [==============================] - 3s 6ms/step - loss: 0.3344 - categorical_crossentropy: 0.3344
+Epoch 2/5
+511/511 [==============================] - 3s 6ms/step - loss: 0.1278 - categorical_crossentropy: 0.1278
+Epoch 3/5
+511/511 [==============================] - 4s 8ms/step - loss: 0.0711 - categorical_crossentropy: 0.0711
+Epoch 4/5
+511/511 [==============================] - 3s 6ms/step - loss: 0.3363 - categorical_crossentropy: 0.3363
+Epoch 5/5
+511/511 [==============================] - 3s 6ms/step - loss: 0.0986 - categorical_crossentropy: 0.0986
+18
+Epoch 1/5
+511/511 [==============================] - 3s 6ms/step - loss: 0.5901 - categorical_crossentropy: 0.5901
+Epoch 2/5
+511/511 [==============================] - 4s 8ms/step - loss: 0.3132 - categorical_crossentropy: 0.3132
+Epoch 3/5
+511/511 [==============================] - 3s 6ms/step - loss: 0.1285 - categorical_crossentropy: 0.1285
+Epoch 4/5
+511/511 [==============================] - 3s 6ms/step - loss: 0.0641 - categorical_crossentropy: 0.0641
+Epoch 5/5
+511/511 [==============================] - 3s 6ms/step - loss: 0.0648 - categorical_crossentropy: 0.0648
+19
+Epoch 1/5
+511/511 [==============================] - 4s 7ms/step - loss: 0.0364 - categorical_crossentropy: 0.0364
+Epoch 2/5
+511/511 [==============================] - 3s 6ms/step - loss: 0.0282 - categorical_crossentropy: 0.0282
+Epoch 3/5
+511/511 [==============================] - 3s 6ms/step - loss: 0.0976 - categorical_crossentropy: 0.0976
+Epoch 4/5
+511/511 [==============================] - 3s 6ms/step - loss: 0.1318 - categorical_crossentropy: 0.1318
+Epoch 5/5
+511/511 [==============================] - 4s 7ms/step - loss: 0.0589 - categorical_crossentropy: 0.0589
+20
+Epoch 1/5
+511/511 [==============================] - 3s 6ms/step - loss: 0.6040 - categorical_crossentropy: 0.6040
+Epoch 2/5
+511/511 [==============================] - 3s 6ms/step - loss: 0.2314 - categorical_crossentropy: 0.2314
+Epoch 3/5
+511/511 [==============================] - 3s 6ms/step - loss: 0.2178 - categorical_crossentropy: 0.2178
+Epoch 4/5
+511/511 [==============================] - 4s 7ms/step - loss: 0.5279 - categorical_crossentropy: 0.5279
+Epoch 5/5
+511/511 [==============================] - 4s 7ms/step - loss: 0.1557 - categorical_crossentropy: 0.1557
+21
+Epoch 1/5
+511/511 [==============================] - 3s 6ms/step - loss: 0.3711 - categorical_crossentropy: 0.3711
+Epoch 2/5
+511/511 [==============================] - 3s 6ms/step - loss: 0.1174 - categorical_crossentropy: 0.1174
+Epoch 3/5
+511/511 [==============================] - 3s 7ms/step - loss: 0.0660 - categorical_crossentropy: 0.0660
+Epoch 4/5
+511/511 [==============================] - 4s 7ms/step - loss: 0.0355 - categorical_crossentropy: 0.0355
+Epoch 5/5
+511/511 [==============================] - 3s 6ms/step - loss: 0.0405 - categorical_crossentropy: 0.0405
+22
+Epoch 1/5
+511/511 [==============================] - 3s 6ms/step - loss: 0.0359 - categorical_crossentropy: 0.0359
+Epoch 2/5
+511/511 [==============================] - 3s 6ms/step - loss: 0.3659 - categorical_crossentropy: 0.3659
+Epoch 3/5
+511/511 [==============================] - 4s 7ms/step - loss: 0.4153 - categorical_crossentropy: 0.4153
+Epoch 4/5
+511/511 [==============================] - 3s 6ms/step - loss: 0.0571 - categorical_crossentropy: 0.0571
+Epoch 5/5
+511/511 [==============================] - 3s 6ms/step - loss: 0.0339 - categorical_crossentropy: 0.0339
+23
+Epoch 1/5
+511/511 [==============================] - 3s 6ms/step - loss: 0.0529 - categorical_crossentropy: 0.0529
+Epoch 2/5
+511/511 [==============================] - 3s 6ms/step - loss: 0.4278 - categorical_crossentropy: 0.4278
+Epoch 3/5
+511/511 [==============================] - 3s 6ms/step - loss: 7.8974 - categorical_crossentropy: 7.8974
+Epoch 4/5
+511/511 [==============================] - 3s 7ms/step - loss: 0.8658 - categorical_crossentropy: 0.8658
+Epoch 5/5
+511/511 [==============================] - 3s 7ms/step - loss: 0.5924 - categorical_crossentropy: 0.5924
+24
+Epoch 1/5
+511/511 [==============================] - 3s 6ms/step - loss: 0.5150 - categorical_crossentropy: 0.5150
+Epoch 2/5
+511/511 [==============================] - 3s 6ms/step - loss: 0.4644 - categorical_crossentropy: 0.4644
+Epoch 3/5
+511/511 [==============================] - 4s 7ms/step - loss: 0.3368 - categorical_crossentropy: 0.3368
+Epoch 4/5
+511/511 [==============================] - 3s 7ms/step - loss: 0.2897 - categorical_crossentropy: 0.2897
+Epoch 5/5
+511/511 [==============================] - 3s 6ms/step - loss: 0.2095 - categorical_crossentropy: 0.2095
+25
+Epoch 1/5
+511/511 [==============================] - 4s 8ms/step - loss: 0.1660 - categorical_crossentropy: 0.1660
+Epoch 2/5
+511/511 [==============================] - 3s 6ms/step - loss: 0.1319 - categorical_crossentropy: 0.1319
+Epoch 3/5
+226/511 [============>.................] - ETA: 1s - loss: 0.0952 - categorical_crossentropy: 0.0952
+
+---------------------------------------------------------------------------
+
+KeyboardInterrupt                         Traceback (most recent call last)
+
+<ipython-input-12-6f56efbd68d6> in <cell line: 5>()
+      5 while (mejor > epsilon) or (i < epocas):
+      6   print(i)
+----> 7   historial = model.fit(train_features, train_targets, epochs=5)
+      8   if historial.history["loss"][-1] < mejor:
+      9     model.save("/content/drive/MyDrive/w08b/red/clasificadorGalaxias")
+
+13 frames
+
+/usr/local/lib/python3.10/dist-packages/tensorflow/python/framework/ops.py in _numpy(self)
+   1124   def _numpy(self):
+   1125     try:
+-> 1126       return self._numpy_internal()
+   1127     except core._NotOkStatusException as e:  # pylint: disable=protected-access
+   1128       raise core._status_to_exception(e) from None  # pylint: disable=protected-access
+
+KeyboardInterrupt: 
+
